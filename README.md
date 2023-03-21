@@ -1,3 +1,3 @@
 # Giftexpertapp
 
-Este es mi repositorio de giftexpertapp en react
+Este es mi repositorio de giftexpertapp en react utilizando vite
